@@ -3,4 +3,5 @@
 
 ## Progress
 Day-1: circle area calculator 
+
 Day-2: Adventure game 
